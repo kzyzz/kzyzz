@@ -1,6 +1,6 @@
 # Hi 🎉 Welcome to kzyzz's Github Homepage!
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;多学%20多做%20多想&font=Roboto" />
 
 <p>
 <img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
