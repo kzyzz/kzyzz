@@ -11,5 +11,3 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kzyzz&theme=dark&layout=compact)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kzyzz&show_icons=true&theme=dark&count_private=true)
-![](https://stats.justsong.cn/api/csdn?id=kzyzz&theme=dark)
-
